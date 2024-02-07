@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Video Games &#8211; SOMAKAT</title>
+	<atom:link href="/media/video-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Jan 2023 22:00:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Lego Brawls</title>
+		<link>/projects/lego-brawls/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Wed, 23 Nov 2022 01:22:32 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=570</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Infinity Blade 3</title>
+		<link>/projects/infinity-blade-3/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2013 20:40:23 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=403</guid>
+
+					<description><![CDATA[At the iPhone 5S unveiling, there was just one Apple partner company besides Nike whose work appeared on stage. By now you've probably seen the image of a massive fire-breathing dragon attacking an armor-clad warrior--it was part of a live gameplay demo of Infinity Blade III. It's the latest installment in a franchise that has been downloaded over 40 million times and exceeded $60 million in revenue.]]></description>
+										<content:encoded><![CDATA[At the iPhone 5S unveiling, there was just one Apple partner company besides Nike whose work appeared on stage. By now you've probably seen the image of a massive fire-breathing dragon attacking an armor-clad warrior--it was part of a live gameplay demo of Infinity Blade III. It's the latest installment in a franchise that has been downloaded over 40 million times and exceeded $60 million in revenue.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Infinity Blade 2</title>
+		<link>/projects/infinity-blade-2/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2011 07:49:47 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=224</guid>
+
+					<description><![CDATA[Building upon the addictive gameplay and breathtaking visuals of the critically acclaimed and best-selling hit Infinity Blade, the forthcoming sequel will further expand the franchise as it continues to raise the bar for AAA mobile gaming. Developed by Epic Games’ award-winning studio Chair Entertainment, Infinity Blade II will challenge gamers to journey further into the world of the Deathless tyrants and their legion of Titans, building skills and upgrading characters in new ways as they delve deeper into the story of this mysterious, timeless adventure.]]></description>
+										<content:encoded><![CDATA[Building upon the addictive gameplay and breathtaking visuals of the critically acclaimed and best-selling hit Infinity Blade, the forthcoming sequel will further expand the franchise as it continues to raise the bar for AAA mobile gaming. Developed by Epic Games’ award-winning studio Chair Entertainment, Infinity Blade II will challenge gamers to journey further into the world of the Deathless tyrants and their legion of Titans, building skills and upgrading characters in new ways as they delve deeper into the story of this mysterious, timeless adventure.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Shadow Complex</title>
+		<link>/projects/shadow-complex/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2011 05:40:55 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=112</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Infinity Blade</title>
+		<link>/projects/infinity-blade/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2011 05:07:24 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=99</guid>
+
+					<description><![CDATA[Infinity Blade is the all-new action RPG sword-fighting game for iPhone®, iPad™ and iPod touch® developed by Epic Games’ award-winning studio, ChAIR Entertainment. The first mobile game powered by Epic’s cutting-edge Unreal Engine 3 technology, Infinity Blade takes handheld gaming to new heights with gorgeous visuals, adrenaline-fueled battles and advanced character progression in a fully 3D castle realm.]]></description>
+										<content:encoded><![CDATA[Infinity Blade is the all-new action RPG sword-fighting game for iPhone®, iPad™ and iPod touch® developed by Epic Games’ award-winning studio, ChAIR Entertainment. The first mobile game powered by Epic’s cutting-edge Unreal Engine 3 technology, Infinity Blade takes handheld gaming to new heights with gorgeous visuals, adrenaline-fueled battles and advanced character progression in a fully 3D castle realm.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

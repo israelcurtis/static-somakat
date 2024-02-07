@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tyler Dixon &#8211; SOMAKAT</title>
+	<atom:link href="/clients/tyler-dixon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Nov 2022 23:25:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Doritos: Mants!</title>
+		<link>/projects/doritos-mants/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 21:55:07 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=544</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Doritos: Worker&#8217;s Chomp</title>
+		<link>/projects/doritos-workers-chomp/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 21:53:37 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=543</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

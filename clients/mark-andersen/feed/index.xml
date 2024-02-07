@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mark Andersen &#8211; SOMAKAT</title>
+	<atom:link href="/clients/mark-andersen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Nov 2022 03:57:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Sojourns</title>
+		<link>/projects/sojourns/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2013 04:05:14 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=390</guid>
+
+					<description><![CDATA[A trailer for Sojourns, a 4K Ultra HD non-narrative film chronicling various landscapes and cultures around the world. ]]></description>
+										<content:encoded><![CDATA[A trailer for Sojourns, a 4K Ultra HD non-narrative film chronicling various landscapes and cultures around the world. ]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vampired</title>
+		<link>/projects/vampired/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2012 20:05:15 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=368</guid>
+
+					<description><![CDATA[Paul Brown's life suddenly changes, in this quirky film, when he encounters a beautiful and mysterious girl in the woods.
+
+Somakat provided the score, original songs, ADR, sound mix, foley, and sound design.]]></description>
+										<content:encoded><![CDATA[Paul Brown's life suddenly changes, in this quirky film, when he encounters a beautiful and mysterious girl in the woods.
+
+Somakat provided the score, original songs, ADR, sound mix, foley, and sound design.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

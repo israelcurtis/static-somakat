@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Polarstar Pictures &#8211; SOMAKAT</title>
+	<atom:link href="/clients/polarstar-pictures/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Nov 2022 03:59:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>The Jerk Theory</title>
+		<link>/projects/the-jerk-theory/</link>
+		
+		<dc:creator><![CDATA[Israel Curtis]]></dc:creator>
+		<pubDate>Fri, 06 May 2011 01:20:31 +0000</pubDate>
+				<guid isPermaLink="false">http://somakat.local/?post_type=projects&#038;p=171</guid>
+
+					<description><![CDATA[An aspiring recording artist, Adam, is burned by a bad relationship experience and decides that if women won't respond to the "nice guy" then he'll be "the jerk." This is wildly successful with meaningless relationships, but when Adam meets and falls for Molly, who doesn''t fall for his jerk routine, Adam is forced to reconsider his dating philosophy]]></description>
+										<content:encoded><![CDATA[An aspiring recording artist, Adam, is burned by a bad relationship experience and decides that if women won't respond to the "nice guy" then he'll be "the jerk." This is wildly successful with meaningless relationships, but when Adam meets and falls for Molly, who doesn''t fall for his jerk routine, Adam is forced to reconsider his dating philosophy]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
