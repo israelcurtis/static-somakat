@@ -1,0 +1,2 @@
+# static-somakat
+somakat.com
